@@ -1,11 +1,4 @@
 
-
-# main_pro.py
-# Bot profesional (Python 3) - Sin video, NSFW imágenes, auto-mute / ban según severidad
-# Requisitos (servidor Linux / Railway recomendado):
-# pip install discord.py aiohttp nsfw-detector pillow numpy
-# Si vas a usar nsfw-detector con TensorFlow: instala tensorflow en el servidor.
-
 import os
 import time
 import hashlib
